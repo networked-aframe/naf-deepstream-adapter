@@ -26,7 +26,7 @@ Steps to setup Deepstream:
 3. Add application
 4. Name your application and choose a region close to you
 5. Copy the URL at the bottom of your new project, it'll start with wss://xxx.deepstreamhub
-6. Replace `YOUR_URL_HERE` in the [Deepstream Demo](https://github.com/haydenjameslee/networked-aframe/blob/master/server/static/deepstream-basic.html)
+6. Replace `YOUR_URL_HERE` in [example/example.html](/example/index.html#L32)
 7. Open two tabs of the demo and you should see the other tab's avatar
 
 
